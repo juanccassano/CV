@@ -1,0 +1,33 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
+  font-family: Helvetica !important;
+  color: #1a1a1a !important;
+  background-color: #f2f0e9 !important;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 4.5em !important;
+  letter-spacing: 0.1em !important;
+}
+
+h2 {
+  font-size: 2.5em !important;
+  letter-spacing: 0.1em !important;
+}
+
+h3 {
+  font-size: 1.75em !important;
+}
